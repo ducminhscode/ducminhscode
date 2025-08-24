@@ -24,8 +24,6 @@
 
 
 ### Repo Card
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=EMM-System&show_owner=true)](https://github.com/ducminhscode/EMM-System)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lequangminh2623&repo=AlumniSocialNetwork&show_owner=true)](https://github.com/lequangminh2623/AlumniSocialNetwork)
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=EMM-System&show_owner=true)](https://github.com/ducminhscode/EMM-System) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lequangminh2623&repo=AlumniSocialNetwork&show_owner=true)](https://github.com/lequangminh2623/AlumniSocialNetwork)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

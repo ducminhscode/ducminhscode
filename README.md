@@ -24,5 +24,7 @@
 
 
 ### Repo Card
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=EMM-System&show_owner=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ducminhscode/EMM-System))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=EMM-System&show_owner=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ducminhscode/EMM-System))
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

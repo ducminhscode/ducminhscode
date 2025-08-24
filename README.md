@@ -37,6 +37,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=Software-Testing&show_owner=true)](https://github.com/ducminhscode/Software-Testing) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=Computer-Network&show_owner=true)](https://github.com/ducminhscode/Computer-Network)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=Computer-Network&show_owner=true)](https://github.com/ducminhscode/Computer-Network) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=Medical-Chatbot&show_owner=true)](https://github.com/ducminhscode/Medical-Chatbot)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

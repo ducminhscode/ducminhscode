@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<table>
+<table style="border: 1px solid #ddd; border-collapse: collapse;">
   <tr>
     <td>
       <a href="https://github.com/ducminhscode/EMM-System">

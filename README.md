@@ -22,62 +22,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ducminhscode&icon=5&color=13)](https://visitcount.itsvg.in)
 
+### 📂 Repo Cards 
 
-### 📂 Repo Cards  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=EMM-System&show_owner=true)](https://github.com/ducminhscode/EMM-System) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lequangminh2623&repo=AlumniSocialNetwork&show_owner=true)](https://github.com/lequangminh2623/AlumniSocialNetwork) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=Tech-Software-Project&show_owner=true)](https://github.com/ducminhscode/Tech-Software-Project) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=Cloud-Computing&show_owner=true)](https://github.com/ducminhscode/Cloud-Computing) 
 
-<div align="center">
-
-<table style="border: 1px solid #ddd; border-collapse: collapse;">
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 6px;">
-      <a href="https://github.com/ducminhscode/EMM-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=EMM-System&show_owner=true" />
-      </a>
-    </td>
-    <td style="border: 1px solid #ddd; padding: 6px;">
-      <a href="https://github.com/lequangminh2623/AlumniSocialNetwork">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lequangminh2623&repo=AlumniSocialNetwork&show_owner=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 6px;">
-      <a href="https://github.com/ducminhscode/Tech-Software-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=Tech-Software-Project&show_owner=true" />
-      </a>
-    </td>
-    <td style="border: 1px solid #ddd; padding: 6px;">
-      <a href="https://github.com/ducminhscode/Cloud-Computing">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=Cloud-Computing&show_owner=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 6px;">
-      <a href="https://github.com/ducminhscode/App-Manage-Personal-Schedules">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=App-Manage-Personal-Schedules&show_owner=true" />
-      </a>
-    </td>
-    <td style="border: 1px solid #ddd; padding: 6px;">
-      <a href="https://github.com/ducminhscode/Software-Testing">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=Software-Testing&show_owner=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 6px;">
-      <a href="https://github.com/ducminhscode/Computer-Network">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=Computer-Network&show_owner=true" />
-      </a>
-    </td>
-    <td style="border: 1px solid #ddd; padding: 6px;">
-      <a href="https://github.com/ducminhscode/Medical-Chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=Medical-Chatbot&show_owner=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=App-Manage-Personal-Schedules&show_owner=true)](https://github.com/ducminhscode/App-Manage-Personal-Schedules) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=Software-Testing&show_owner=true)](https://github.com/ducminhscode/Software-Testing) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=Computer-Network&show_owner=true)](https://github.com/ducminhscode/Computer-Network) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducminhscode&repo=Medical-Chatbot&show_owner=true)](https://github.com/ducminhscode/Medical-Chatbot) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
